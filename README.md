@@ -10,3 +10,4 @@
    + Matplotlib
    + Seaborn
    + Folium
+   + BeaurifulSoup
