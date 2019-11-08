@@ -3,9 +3,10 @@
  
  ## Study List
  * Deep Learning from Scratch 1, 2
-   + DNN
-   + CNN
-   + RNN
+   + baseRNN
  * Data Analysis Using Python
    + Pandas
    + NumPy
+   + Matplotlib
+   + Seaborn
+   + Folium
