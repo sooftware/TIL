@@ -3,4 +3,9 @@
  
  ## Study List
  * Deep Learning from Scratch 1, 2
- * Web Crawling  
+   + DNN
+   + CNN
+   + RNN
+ * Data Analysis Using Python
+   + Pandas
+   + NumPy
