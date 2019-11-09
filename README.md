@@ -11,3 +11,4 @@
    + Seaborn
    + Folium
    + BeaurifulSoup
+   + basic html
