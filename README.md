@@ -11,4 +11,6 @@
    + Seaborn
    + Folium
    + BeaurifulSoup
-   + basic html
+   + Basic html
+   + Web Scraping (Crawling)
+     + Chicago Sandwich Ranking Analysis
