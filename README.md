@@ -14,4 +14,4 @@
    + Basic html
    + Web Scraping (Crawling)
      + Chicago Sandwich Ranking Analysis
-     + Naver-Daum Real-time Rank Scraping
+     + Naver-Daum-Google Search Ranking Crawling
