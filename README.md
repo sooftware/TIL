@@ -2,7 +2,11 @@
  My-Study-Repository  
  
  ## Study List
- * Deep Learning from Scratch 1, 2
+ * Bigdata-Language-Homework  
+   + Text Copy Inspection (HW1)  
+   + Data Analysis with NumPy 1 (HW2)  
+   + Data Analysis with NumPy 2 (HW3)  
+ * Deep Learning from Scratch
    + baseRNN
  * Data Analysis Using Python
    + Pandas
