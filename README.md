@@ -18,6 +18,8 @@
    + Basic html
    + Web Scraping (Crawling)
      + Chicago Sandwich Ranking Analysis
-     + Naver-Daum-Google Search Ranking Crawling
+     + Naver-Daum-Google Search Ranking Crawling  
+ * Visualization of Train
+   + Visualization of Deep Learning Model Training
 
 
