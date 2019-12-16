@@ -21,5 +21,9 @@
      + Naver-Daum-Google Search Ranking Crawling  
  * Visualization of Train
    + Visualization of Deep Learning Model Training
+ * Speech Recognition Practice
+   + Mel-Spectrogram & MFCC
+ * DNN Practice
+   + DNN Practice Using PyTorch
 
 
