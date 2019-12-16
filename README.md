@@ -2,7 +2,11 @@
  My-Study-Repository  
  
  ## Study List
- * Deep Learning from Scratch 1, 2
+ * Bigdata-Language-Homework  
+   + Text Copy Inspection (HW1)  
+   + Data Analysis with NumPy 1 (HW2)  
+   + Data Analysis with NumPy 2 (HW3)  
+ * Deep Learning from Scratch
    + baseRNN
  * Data Analysis Using Python
    + Pandas
@@ -14,6 +18,8 @@
    + Basic html
    + Web Scraping (Crawling)
      + Chicago Sandwich Ranking Analysis
-     + Naver-Daum-Google Search Ranking Crawling
+     + Naver-Daum-Google Search Ranking Crawling  
+ * Visualization of Train
+   + Visualization of Deep Learning Model Training
 
 
