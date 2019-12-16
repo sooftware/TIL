@@ -25,5 +25,10 @@
    + Mel-Spectrogram & MFCC
  * DNN Practice
    + DNN Practice Using PyTorch
-
+ * Computer Architecture  
+   + Computer Architecture Lecture Homework
+ * Operating System
+   + Operating System Lecture Homework
+ * System Programming
+   + System Programming Lecture Homework
 
