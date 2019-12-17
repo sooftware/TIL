@@ -29,6 +29,10 @@
    + Computer Architecture Lecture Homework
  * Operating System
    + Operating System Lecture Homework
+   + Process : https://blog.naver.com/sooftware/221740533107
+   + Process Scheduling & Context Switching : https://blog.naver.com/sooftware/221740901909
  * System Programming
    + System Programming Lecture Homework
+ * Data Science
+   + Data Mining - Basic Statics : https://blog.naver.com/sooftware/221740853982
 
