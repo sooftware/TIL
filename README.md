@@ -35,4 +35,6 @@
    + System Programming Lecture Homework
  * Data Science
    + Data Mining - Basic Statics : https://blog.naver.com/sooftware/221740853982
+ * Capstone Test
+   + Create Filtered Label File A.I Hub Dataset
 
