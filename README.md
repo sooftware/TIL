@@ -37,4 +37,5 @@
    + Data Mining - Basic Statics : https://blog.naver.com/sooftware/221740853982
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
+   + Create Char Labels File A.I Hub Dataset
 
