@@ -42,4 +42,6 @@
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
+ * MFCC
+   + MFCC Record : https://blog.naver.com/sooftware/221661644808
 
