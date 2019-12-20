@@ -7,6 +7,9 @@
    + Data Analysis with NumPy 1 (HW2)  
    + Data Analysis with NumPy 2 (HW3)  
  * Deep Learning from Scratch
+   + Sigmoid
+   + Affine
+   + TwoLayerNet
    + baseRNN
  * Data Analysis Using Python
    + Pandas
