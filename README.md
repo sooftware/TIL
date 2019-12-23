@@ -44,4 +44,6 @@
    + Create Char Labels File A.I Hub Dataset
  * MFCC
    + MFCC Record : https://blog.naver.com/sooftware/221661644808
+ * Capstone-Study
+   + [RNN.pdf](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
 
