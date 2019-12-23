@@ -2,6 +2,7 @@
  My-Study-Repository  
  
  ## Study List
+ * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
  * Bigdata-Language-Homework  
    + Text Copy Inspection (HW1)  
    + Data Analysis with NumPy 1 (HW2)  
