@@ -2,7 +2,7 @@ import numpy as np
 
 # 2019-11-01
 # Basic RNN
-class BaseRNN:
+class RNN:
     def __init__(self, Wx, Wh, b):
         self.params = [Wx, Wh, b]
         self.grads = [np.zeros_like(Wx), np.zeros_like(Wh), np.zeros_like(b)]
@@ -10,12 +10,12 @@ class BaseRNN:
 
     #  아래 공식으로 forward
     #  h = tanh( h_pre * Wh_pre + xWx + bias )
-    #  h_pre : 이전 계층의 output, x : input, b : bias
-    def forward(self, x, h_pre):
+    #  h_prev : 이전 계층의 output, x : input, b : bias
+    def forward(self, x, h_prev):
         Wx, Wh, b = self.params
-        h = np.matmul(x, Wx) + np.matmul(h_pre, Wh) + b # bias -> broadcasting
+        h = np.matmul(x, Wx) + np.matmul(h_prev, Wh) + b # bias -> broadcasting
         h = np.tanh(h)
-        self.cache = (x, h_pre, h) # for Backpropagation
+        self.cache = (x, h_prev, h) # for Backpropagation
         return h
 
     #  Backpropagation Comment Start ====
@@ -32,7 +32,7 @@ class BaseRNN:
     # ====================== Comment End
     def backward(self, dh):
         Wx, Wh, b = self.params
-        x,  h_pre, h = self.cache
+        x,  h_prev, h = self.cache
 
         #  tanh = { ( exp(x) - exp(-x) ) / ( exp(x) + exp(-x) ) }
         #  dtanh = 1 - tanh^2
@@ -40,8 +40,8 @@ class BaseRNN:
         #  + b 는 broadcasting이 되기 때문에
         #  Backpropagation 계산 시 그냥 넘겨주는게 아니라 총합으로 계산한다
         db = np.sum(dtanh, axis = 0)
-        dWh = np.matmul(h_pre.T, dtanh)
-        dh_pre = np.matmul(dtanh, Wh.T)
+        dWh = np.matmul(h_prev.T, dtanh)
+        dh_prev = np.matmul(dtanh, Wh.T)
         dWx = np.matmul(x.T, dtanh)
         dx = np.matmul(dtanh, Wx.T)
 
@@ -49,4 +49,4 @@ class BaseRNN:
         self.grads[1][...] = dWh # deepcopy using ...
         self.grads[2][...] = db # deepcopy using ...
 
-        return dx, dh_pre
+        return dx, dh_prev
