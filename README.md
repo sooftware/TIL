@@ -11,7 +11,8 @@
    + Sigmoid
    + Affine
    + TwoLayerNet
-   + baseRNN
+   + BaseRNN
+   + TimeRNN
    + [Neural Network Review Presentation](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chapter1.pdf)
    + [Natural Language and expression of variance in a word](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper2.pdf)
    + [word2vec](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper3.pdf)
