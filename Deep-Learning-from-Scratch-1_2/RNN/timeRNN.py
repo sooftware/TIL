@@ -13,6 +13,14 @@ class TimeRNN:
         # stateful 이 True면, 은닉 상태 유지, stateful이 False면 은닉 상태 초기화
         self.stateful = stateful
 
+    # RNN의 Hidden State 설정
+    def set_state(self, h):
+        self.h = h
+
+    # RNN의 Hidden State 초기화
+    def reset_state(self):
+        self.h = None
+
     def forward(self, xs):
         Wx, Wh, b = self.params
         # N : 미니배치
@@ -47,8 +55,8 @@ class TimeRNN:
         D, H = Wx.shape
 
         dxs = np.empty((N, T, D), dtype='f')
-        dh = 0 # 맨 처음 dh는 0 (Truncated BPTT이기 때문)
-        grads = [0, 0, 0] # [dWx, dWh, db] 초기화
+        dh = 0  # 맨 처음 dh는 0 (Truncated BPTT이기 때문)
+        grads = [0, 0, 0]  # [dWx, dWh, db] 초기화
 
         for t in reversed(range(T)):
             layer = self.layers[t]
@@ -65,11 +73,3 @@ class TimeRNN:
         # 현재는 필요없지만 뒤에서 seq2seq에 필요하기 때문에 저장
         self.dh = dh
         return dxs
-
-    # RNN의 Hidden State 설정
-    def set_state(self, h):
-        self.h = h
-
-    # RNN의 Hidden State 초기화
-    def reset_state(self):
-        self.h = None
