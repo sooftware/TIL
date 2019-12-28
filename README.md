@@ -54,5 +54,5 @@
  * Capstone-Study
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
-   + [BeamSearch](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
+   + [Beam Search](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
 
