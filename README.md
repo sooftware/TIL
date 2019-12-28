@@ -51,5 +51,7 @@
  * MFCC
    + MFCC Record : https://blog.naver.com/sooftware/221661644808
  * Capstone-Study
-   + [RNN.pdf](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
+   + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
+   + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
+   + [BeamSearch](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
 
