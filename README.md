@@ -44,6 +44,14 @@
  * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
 * Kaig-Study
    + 파이썬으로 배우는 머신러닝의 교과서
+     + [Chapter 1-2](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter1%2C2/%ED%8C%8C%EB%A8%B8%EA%B5%902%EC%9E%A5PPT_%EC%98%88%EC%A0%9C%EC%BD%94%EB%93%9C)
+     + [Chapter 3](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter3)
+     + [Chapter 4](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter4)
+     + [Chapter 5](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter5)
+     + [Chapter 6](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter6)
+     + [Chapter 7](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter7)
+     + [Chapter 8](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter8)
+     + [Chapter 9](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter9)
    + 강화학습
    + RNN & LSTM
    + 국내논문
