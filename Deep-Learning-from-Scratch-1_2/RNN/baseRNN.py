@@ -3,6 +3,24 @@ import numpy as np
 # 2019-11-01
 # Basic RNN
 class RNN:
+    def backward(self, dh):
+        Wx, Wh, b = self.params
+        x,  h_prev, h = self.cache
+
+        dtanh = dh * (1 - h ** 2)
+        db = np.sum(dtanh, axis = 0)
+        dWh = np.matmul(h_prev.T, dtanh)
+        dh_prev = np.matmul(dtanh, Wh.T)
+        dWx = np.matmul(x.T, dtanh)
+        dx = np.matmul(dtanh, Wx.T)
+
+        self.grads[0][...] = dWx
+        self.grads[1][...] = dWh
+        self.grads[2][...] = db
+
+        return dx, dh_prev
+
+
     def __init__(self, Wx, Wh, b):
         self.params = [Wx, Wh, b]
         self.grads = [np.zeros_like(Wx), np.zeros_like(Wh), np.zeros_like(b)]
@@ -30,23 +48,3 @@ class RNN:
     #  => y * dy/dx = yz , y * dy/dz = yx
     #
     # ====================== Comment End
-    def backward(self, dh):
-        Wx, Wh, b = self.params
-        x,  h_prev, h = self.cache
-
-        #  tanh = { ( exp(x) - exp(-x) ) / ( exp(x) + exp(-x) ) }
-        #  dtanh = 1 - tanh^2
-        dtanh = dh * (1 - h ** 2)
-        #  + b 는 broadcasting이 되기 때문에
-        #  Backpropagation 계산 시 그냥 넘겨주는게 아니라 총합으로 계산한다
-        db = np.sum(dtanh, axis = 0)
-        dWh = np.matmul(h_prev.T, dtanh)
-        dh_prev = np.matmul(dtanh, Wh.T)
-        dWx = np.matmul(x.T, dtanh)
-        dx = np.matmul(dtanh, Wx.T)
-
-        self.grads[0][...] = dWx # deepcopy using ...
-        self.grads[1][...] = dWh # deepcopy using ...
-        self.grads[2][...] = db # deepcopy using ...
-
-        return dx, dh_prev
