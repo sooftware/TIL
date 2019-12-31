@@ -13,6 +13,7 @@
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
+ * Capstone Weekly Report
  * Computer Architecture  
    + Computer Architecture Lecture Homework
 * DNN Practice
