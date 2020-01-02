@@ -10,6 +10,7 @@
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Beam Search](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
+   + [LSTM_and_GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
@@ -37,6 +38,7 @@
    + TwoLayerNet
    + BaseRNN
    + TimeRNN
+   + LSTM
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [Neural Network Review](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chapter1.pdf)
    + [Natural Language and expression of variance in a word](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper2.pdf)
