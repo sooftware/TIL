@@ -17,6 +17,8 @@
  * Capstone Weekly Report
  * Computer Architecture  
    + Computer Architecture Lecture Homework
+* Java-Practice
+   + Customer Management Program
 * DNN Practice
    + DNN Practice Using PyTorch
 * Data Analysis Using Python
