@@ -20,12 +20,12 @@ public class MainEntry implements PublicConstants {
 
 			/* Execute to User`s Choice */
 			CustomerManagement execute = new CustomerManagement(customerList);
-			if (mode == 0) execute.printCustomerList();
-			else if (mode == 1) customerList.add(execute.registerNewCustomer());
-			else if (mode == 2) execute.modifyCustomerInfo();
-			else if (mode == 3) execute.lookupCustomerPoint();
-			else if (mode == 4) execute.deleteCustomer();
-			else if (mode == 5) break;
+			if (mode == PRINT_CUSTOMER_LIST) execute.printCustomerList();
+			else if (mode == REGISTER_NEW_CUSTOMER) customerList.add(execute.registerNewCustomer());
+			else if (mode == MODIFY_CUSTOMER_INFO) execute.modifyCustomerInfo();
+			else if (mode == LOOKUP_CUSTOMER_POINT) execute.lookupCustomerPoint();
+			else if (mode == DELETE_CUSTOMER) execute.deleteCustomer();
+			else if (mode == EXIT) break;
 			else System.out.println(FATAL_ELSE_MSG);
 		}
 	}

@@ -2,6 +2,12 @@ package customer;
 
 public interface PublicConstants {
 	public static final int MENU_NUM = 7;
+	public static final int PRINT_CUSTOMER_LIST = 0;
+	public static final int REGISTER_NEW_CUSTOMER = 1;
+	public static final int MODIFY_CUSTOMER_INFO = 2;
+	public static final int LOOKUP_CUSTOMER_POINT = 3;
+	public static final int DELETE_CUSTOMER = 4;
+	public static final int EXIT = 5;
 	public static final String TITLE = "\\t### Customer Management Program ###\\n";
 	public static final String[] MENU = {"## 0. 고객 명단 출력\n",
 										 "## 1. 신규 고객 등록\n",
