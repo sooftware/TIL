@@ -2,20 +2,41 @@ package customer;
 
 /* Customer Information */
 public class Customer {
-	private String customerNo=null;
-	private String phoneNum=null;
-	private String name=null;
-	private String gender=null;
-	private int point=0;
+	private String customerNo;
+	private String password;
+	private String phoneNum;
+	private String name;
+	private String gender;
+	private int point;
+	
+	Customer(){
+		this.customerNo = null;
+		this.password = null;
+		this.phoneNum = null;
+		this.name = null;
+		this.gender = null;
+		this.point = 0;
+	}
 	
 	/* Getter & Setter */
 	
+
+
 	public String getCustomerNo() {
 		return customerNo;
 	}
+
 	public void setCustomerNo(String customerNo) {
 		this.customerNo = customerNo;
 	}
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
 	public String getPhoneNum() {
 		return phoneNum;
 	}
