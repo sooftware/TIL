@@ -17,8 +17,6 @@
  * Capstone Weekly Report
  * Computer Architecture  
    + Computer Architecture Lecture Homework
-* Java-Practice
-   + Customer Management Program
 * DNN Practice
    + DNN Practice Using PyTorch
 * Data Analysis Using Python
@@ -47,6 +45,9 @@
    + [word2vec](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper3.pdf)
    + [word2vec performance improvement](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper4.pdf)
  * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
+* Java-Practice
+   + Customer Management Program v1.0
+   + Customer Management Program v1.1
 * Kaig-Study
    + 파이썬으로 배우는 머신러닝의 교과서
      + [Chapter 1-2](https://github.com/sh951011/My-Study-Repository/tree/master/KAIG-Study/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EA%B5%90%EA%B3%BC%EC%84%9C/Chapter1%2C2/%ED%8C%8C%EB%A8%B8%EA%B5%902%EC%9E%A5PPT_%EC%98%88%EC%A0%9C%EC%BD%94%EB%93%9C)
