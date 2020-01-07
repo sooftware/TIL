@@ -7,10 +7,13 @@
    + Data Analysis with NumPy 1 (HW2)  
    + Data Analysis with NumPy 2 (HW3)  
  * Capstone-Study
+   + [Bayesian](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Bayesian.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Beam Search](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
    + [LSTM_and_GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
+   + [Ensemble](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Ensemble.pdf)
+   + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
