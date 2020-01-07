@@ -35,6 +35,8 @@
      + Naver-Daum-Google Search Ranking Crawling  
  * Data Science
    + [Data Mining - Basic Statics](https://blog.naver.com/sooftware/221740853982)
+ * Database
+   + Query Review
  * Deep Learning from Scratch
    + Sigmoid
    + Affine
