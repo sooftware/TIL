@@ -37,7 +37,7 @@ import Levenshtein as Lev
 
 import label_loader
 from loader import *
-from models import EncoderRNN, DecoderRNN, Seq2seq
+from models import encoderRNN, decoderRNN, Seq2seq
 
 import nsml
 from nsml import GPU_NUM, DATASET_PATH, DATASET_NAME, HAS_DATASET
@@ -353,11 +353,11 @@ def main():
     #feature_size = N_FFT / 2 + 1
     feature_size = 1025
 
-    enc = EncoderRNN(feature_size, args.hidden_size,
+    enc = encoderRNN(feature_size, args.hidden_size,
                      input_dropout_p=args.dropout, dropout_p=args.dropout,
                      n_layers=args.layer_size, bidirectional=args.bidirectional, rnn_cell='gru', variable_lengths=False)
 
-    dec = DecoderRNN(len(char2index), args.max_len, args.hidden_size * (2 if args.bidirectional else 1),
+    dec = decoderRNN(len(char2index), args.max_len, args.hidden_size * (2 if args.bidirectional else 1),
                      SOS_token, EOS_token,
                      n_layers=args.layer_size, rnn_cell='gru', bidirectional=args.bidirectional,
                      input_dropout_p=args.dropout, dropout_p=args.dropout, use_attention=args.use_attention)
