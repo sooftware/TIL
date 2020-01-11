@@ -8,6 +8,7 @@
    + Data Analysis with NumPy 2 (HW3)  
  * Capstone-Study
    + [Bayesian](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Bayesian.pdf)
+   + [Bidirectional-RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BLSTM.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Beam Search](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
@@ -49,7 +50,9 @@
    + [Natural Language and expression of variance in a word](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper2.pdf)
    + [word2vec](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper3.pdf)
    + [word2vec performance improvement](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper4.pdf)
- * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
+* Deep-Byun
+   + [1일차](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/1%EC%9D%BC%EC%B0%A8.md)
+* [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
 * Java-Practice
    + Customer Management Program
    + Customer Management Program DB version.
