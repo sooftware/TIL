@@ -15,6 +15,7 @@
    + [LSTM-GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
+   + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
