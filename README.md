@@ -15,6 +15,7 @@
    + [LSTM-GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
+   + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
@@ -52,7 +53,8 @@
    + [word2vec](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper3.pdf)
    + [word2vec performance improvement](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper4.pdf)
 * Deep-Byun
-   + [1일차](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/1%EC%9D%BC%EC%B0%A8.md)
+   + [1일차](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day1/1%EC%9D%BC%EC%B0%A8.md)
+   + [Practice1_1](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day1/Practice1_1.ipynb)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
 * Java-Practice
    + Customer Management Program
