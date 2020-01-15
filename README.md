@@ -13,6 +13,7 @@
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Ensemble](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Ensemble.pdf)
    + [LSTM-GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
+   + [MFCC](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/MFCC.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
