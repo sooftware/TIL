@@ -56,6 +56,9 @@
 * Deep-Byun
    + [1일차](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day1/1%EC%9D%BC%EC%B0%A8.md)
    + [Practice1_1](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day1/Practice1_1.ipynb)
+   + [Singular Variable Chain Rule](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Single-variable%20chain%20rule.pdf)
+   + [Total Derivative](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Total%20Derivative.pdf)
+   + [Matrix Calculus Chain Rule](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Matrix%20Calculus%20chain%20rule.pdf)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
 * Java-Practice
    + Customer Management Program
