@@ -60,6 +60,7 @@
    + [Total Derivative](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Total%20Derivative.pdf)
    + [Matrix Calculus Chain Rule](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Matrix%20Calculus%20chain%20rule.pdf)
    + [Backpropagation-for-the-Cost](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Backpropagation_for_The_Cost.pdf)
+   + [MLE & MAP](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day4/MLE%20%26%20MAP.pdf)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
 * Java-Practice
    + Customer Management Program
