@@ -1,5 +1,5 @@
-# My-Study-Repository
- My-Study-Repository  
+# Things-I've-Studied
+ Things I've Studied  
  
  ## Study List
  * Bigdata-Language-Homework  
