@@ -7,6 +7,7 @@
    + Data Analysis with NumPy 1 (HW2)  
    + Data Analysis with NumPy 2 (HW3)  
  * Capstone-Study
+   + [Attention-Mechanism](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Attention-Mechanism.pdf)
    + [Bayesian](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Bayesian.pdf)
    + [Beam Search](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BeamSearch.pdf)
    + [Bidirectional-RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BLSTM.pdf)
