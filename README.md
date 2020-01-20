@@ -62,6 +62,10 @@
    + [Matrix Calculus Chain Rule](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Matrix%20Calculus%20chain%20rule.pdf)
    + [Backpropagation-for-the-Cost](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day3/Backpropagation_for_The_Cost.pdf)
    + [MLE & MAP](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Byun/Day4/MLE%20%26%20MAP.pdf)
+   + [Practice1_2](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_2.ipynb)
+   + [Practice1_3](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_3.ipynb)
+   + [Practice1_4](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_4.ipynb)
+   + [Practice1_5](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_5.ipynb)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
    + RNN
    + LSTM & GRU
