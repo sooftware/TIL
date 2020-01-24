@@ -19,6 +19,9 @@
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
+ * NLP
+   + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
+   + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
@@ -49,7 +52,6 @@
    + BaseRNN
    + TimeRNN
    + LSTM
-   + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [Neural Network Review](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chapter1.pdf)
    + [Natural Language and expression of variance in a word](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper2.pdf)
    + [word2vec](https://github.com/sh951011/My-Study-Repository/blob/master/Deep-Learning-from-Scratch-1_2/Presentation/DL_Chaper3.pdf)
