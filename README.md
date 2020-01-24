@@ -14,6 +14,8 @@
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Ensemble](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Ensemble.pdf)
    + [LSTM-GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
+   + [Listen, Attend and Spell](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Listen%2C%20Attend%20and%20Spell.pdf)
+   + [Learning Rate Schedule & Label Smoothing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Learning%20Rate%20Schedule%20%26%20Label%20Smoothing.pdf)
    + [MFCC](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/MFCC.pdf)
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
