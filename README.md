@@ -25,6 +25,7 @@
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
    + [Seq2seq](https://blog.naver.com/sooftware/221784419691)
+   + [Attention Mechanism](https://blog.naver.com/sooftware/221784472231)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
