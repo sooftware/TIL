@@ -21,7 +21,7 @@
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
- * Machine Learning Postint
+ * Machine Learning Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
