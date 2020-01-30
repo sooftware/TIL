@@ -21,7 +21,7 @@
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
- * Machine Learning Postint
+ * Machine Learning Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
@@ -73,6 +73,8 @@
    + [Practice1_3](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_3.ipynb)
    + [Practice1_4](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_4.ipynb)
    + [Practice1_5](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_5.ipynb)
+   + [Huffman Encoding](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day7/Huffman%20Encoding.pdf)
+   + [Information Theory & Cross Entropy](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day7/Day7.md)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
    + RNN
    + LSTM & GRU
