@@ -20,6 +20,7 @@
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
+   + [Signal-Processing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Signal-Processing.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
  * Machine Learning Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
