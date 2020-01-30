@@ -28,6 +28,7 @@
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
    + [Seq2seq](https://blog.naver.com/sooftware/221784419691)
    + [Attention Mechanism](https://blog.naver.com/sooftware/221784472231)
+   + [Teacher Forcing](https://blog.naver.com/sooftware/221790750668)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
