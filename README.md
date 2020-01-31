@@ -20,6 +20,7 @@
    + [RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/RNN.pdf)
    + [Seq2seq](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Seq2seq.pdf)
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
+   + [Signal-Processing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Signal-Processing.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
  * Machine Learning Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
@@ -27,6 +28,7 @@
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
    + [Seq2seq](https://blog.naver.com/sooftware/221784419691)
    + [Attention Mechanism](https://blog.naver.com/sooftware/221784472231)
+   + [Teacher Forcing](https://blog.naver.com/sooftware/221790750668)
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
