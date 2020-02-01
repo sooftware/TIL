@@ -46,6 +46,20 @@
    + [LinkedList 1](https://blog.naver.com/sooftware/221453447143)
    + [LinkedList 2](https://blog.naver.com/sooftware/221453969574)
    + [ArrayList](https://blog.naver.com/sooftware/221338833228)
+   + [Data Mining - Basic Statics](https://blog.naver.com/sooftware/221740853982)
+   + [Process](https://blog.naver.com/sooftware/221740533107)
+   + [Process Scheduling & Context Switching](https://blog.naver.com/sooftware/221740901909)
+   + [Process Creation & Process Termination](https://blog.naver.com/sooftware/221744368058) 
+   + [#define](https://blog.naver.com/sooftware/221603778670)
+   + [Python`s Feature](https://blog.naver.com/sooftware/221524242559)
+   + [Python`s I/O & list](https://blog.naver.com/sooftware/221524253240)
+   + [Python`s Condition & Repeat & Function](https://blog.naver.com/sooftware/221524265461)
+   + [Python`s String](https://blog.naver.com/sooftware/221524269960)
+   + [Python`s Collection](https://blog.naver.com/sooftware/221525708100)
+   + [Python`s Style Code](https://blog.naver.com/sooftware/221529803525)
+   + [NumPy 1](https://blog.naver.com/sooftware/221575467290)
+   + [NumPy 2](https://blog.naver.com/sooftware/221575467290)
+   + [swapaxes in NumPy](https://blog.naver.com/sooftware/221577171997)
    
    
  * Capstone Test
@@ -67,8 +81,6 @@
    + Web Scraping (Crawling)
      + Chicago Sandwich Ranking Analysis
      + Naver-Daum-Google Search Ranking Crawling  
- * Data Science
-   + [Data Mining - Basic Statics](https://blog.naver.com/sooftware/221740853982)
  * Database
    + Query Review
  * Deep Learning from Scratch
@@ -118,13 +130,8 @@
    + 강화학습
    + RNN & LSTM
    + 국내논문
- * MFCC
-   + [MFCC Algorithm](https://blog.naver.com/sooftware/221661644808)
 * Operating System
    + Operating System Lecture Homework
-   + [Process](https://blog.naver.com/sooftware/221740533107)
-   + [Process Scheduling & Context Switching](https://blog.naver.com/sooftware/221740901909)
-   + [Process Creation & Process Termination](https://blog.naver.com/sooftware/221744368058) 
  * Unix-Network-Programming
    + [Chapter1](https://github.com/sh951011/My-Study-Repository/blob/master/Unix-Network-Programming/Unix_Chapter1.pdf)
    + [Chapter2](https://github.com/sh951011/My-Study-Repository/blob/master/Unix-Network-Programming/Unix_Chapter2.pdf)
