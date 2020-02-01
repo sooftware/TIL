@@ -1,5 +1,5 @@
-# Things-I've-Studied
- Things I've Studied  
+# Things-I've-Learned
+ Things I've Learned  
  
  ## Study List
  * Bigdata-Language-Homework  
@@ -23,13 +23,31 @@
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Signal-Processing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Signal-Processing.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
- * Machine Learning Posting
+ * Blog Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
    + [Seq2seq](https://blog.naver.com/sooftware/221784419691)
    + [Attention Mechanism](https://blog.naver.com/sooftware/221784472231)
    + [Teacher Forcing](https://blog.naver.com/sooftware/221790750668)
+   + [MFCC Algorithm](https://blog.naver.com/sooftware/221661644808)
+   + [Computing Acceleration](https://blog.naver.com/sooftware/221606992302)
+   + [Thesaurus](https://blog.naver.com/sooftware/221606819749)
+   + [Intro of NLP](https://blog.naver.com/sooftware/221595896130)
+   + [Multi-Armed-Bandit](https://blog.naver.com/sooftware/221473292548)
+   + [Sigmoid & Softmax Function](https://blog.naver.com/sooftware/221423472121)
+   + [Dynamic Programming](https://blog.naver.com/sooftware/221626152678)
+   + [Stack](https://blog.naver.com/sooftware/221470998685)
+   + [Queue](https://blog.naver.com/sooftware/221482942166)
+   + [Circular Queue](https://blog.naver.com/sooftware/221512458414)
+   + [Deque](https://blog.naver.com/sooftware/221516440423)
+   + [Binary Search](https://blog.naver.com/sooftware/221470087046)
+   + [Intro of LinkedList](https://blog.naver.com/sooftware/221338820564)
+   + [LinkedList 1](https://blog.naver.com/sooftware/221453447143)
+   + [LinkedList 2](https://blog.naver.com/sooftware/221453969574)
+   + [ArrayList](https://blog.naver.com/sooftware/221338833228)
+   
+   
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
    + Create Char Labels File A.I Hub Dataset
