@@ -37,3 +37,10 @@
 |:---:|:---:|:---:|  
 |100|12.6|14.7|   
 |90|10.3|12.0|   
+
+|Model|clean WER (%)|noisy WER(%)|  
+|:---:|:---:|:---:|  
+|CLDNN-HMM (SOTA)|8.0|8.9|  
+|LAS + Sampling + LM Rescoring|10.3|12.0|  
+
+
