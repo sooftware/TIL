@@ -33,7 +33,7 @@
 |90|14.1|16.5|   
    
 ### Apply Language Model
-|teacher_forcing|clean WER (%)|noisy WER (%)|  
+|teacher forcing (%)|clean WER (%)|noisy WER (%)|  
 |:---:|:---:|:---:|  
 |100|12.6|14.7|   
 |90|10.3|12.0|   
