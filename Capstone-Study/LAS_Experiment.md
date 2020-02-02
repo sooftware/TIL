@@ -27,13 +27,13 @@
 ## Performance  
   
 ### No Language Model
-|teacher_forcing ratio|clean WER (%)|noisy WER (%)|  
-|---|:---:|:---:|  
-|1.0|16.2|19.0|   
-|0.9|14.1|16.5|   
+|teacher forcing (%)|clean WER (%)|noisy WER (%)|  
+|:---:|:---:|:---:|  
+|100|16.2|19.0|   
+|90|14.1|16.5|   
    
 ### Apply Language Model
-|teacher_forcing ratio|clean WER (%)|noisy WER (%)|  
-|---|:---:|:---:|  
-|1.0|12.6|14.7|   
-|0.9|10.3|12.0|   
+|teacher_forcing|clean WER (%)|noisy WER (%)|  
+|:---:|:---:|:---:|  
+|100|12.6|14.7|   
+|90|10.3|12.0|   
