@@ -60,7 +60,10 @@
    + [NumPy 1](https://blog.naver.com/sooftware/221575467290)
    + [NumPy 2](https://blog.naver.com/sooftware/221575467290)
    + [swapaxes in NumPy](https://blog.naver.com/sooftware/221577171997)
-   
+ 
+ * Wrapper  
+   + [Content-Based Attention](https://github.com/sh951011/Korean-Speech-Recognition/blob/master/models/attention.py)  
+   + [Hybrid Attention](https://github.com/sh951011/Korean-Speech-Recognition/blob/master/models/attention.py)   
    
  * Capstone Test
    + Create Filtered Label File A.I Hub Dataset
