@@ -14,6 +14,8 @@
    + [Bidirectional-RNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/BLSTM.pdf)
    + [CNN](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/CNN.pdf)
    + [Ensemble](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Ensemble.pdf)
+   + [Gradient-Descent-Optimizer-Algorithm](https://github.com/sh951011/TIL/blob/master/Capstone-Study/GradientDescentOptimizer.pdf)
+   + [Language-Model-&-Fusioning](https://github.com/sh951011/TIL/blob/master/Capstone-Study/LM-%26-Fusioning.pdf)
    + [LSTM-GRU](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/LSTM_and_GRU.pdf)
    + [Listen, Attend and Spell](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Listen%2C%20Attend%20and%20Spell.pdf)
    + [Learning Rate Schedule & Label Smoothing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Learning%20Rate%20Schedule%20%26%20Label%20Smoothing.pdf)
