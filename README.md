@@ -63,6 +63,7 @@
    + [NumPy 2](https://blog.naver.com/sooftware/221575467290)
    + [swapaxes in NumPy](https://blog.naver.com/sooftware/221577171997)
    + [Python Documentation using Sphinx](https://blog.naver.com/sooftware/221838103492)
+   + [Variable Naming](https://blog.naver.com/sooftware/221846090355)  
  
  * Wrapper  
    + [Content-Based Attention](https://github.com/sh951011/Korean-Speech-Recognition/blob/master/models/attention.py)  
