@@ -1,5 +1,4 @@
-# TIL
- Today I Learned
+# Today I Learned :books:  
  
  ## Study List
  * Bigdata-Language-Homework  
@@ -25,6 +24,7 @@
    + [Spec-Augmentation](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/SpecAugmentation.pdf)
    + [Signal-Processing](https://github.com/sh951011/Things-I-have-Studied/blob/master/Capstone-Study/Signal-Processing.pdf)
    + [Teacher Forcing](https://github.com/sh951011/My-Study-Repository/blob/master/Capstone-Study/Teacher%20Forcing.pdf)
+   + [Word-Embedding](https://github.com/sh951011/TIL/blob/master/Capstone-Study/Word-Embedding.pdf)  
  * Blog Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
@@ -62,6 +62,8 @@
    + [NumPy 1](https://blog.naver.com/sooftware/221575467290)
    + [NumPy 2](https://blog.naver.com/sooftware/221575467290)
    + [swapaxes in NumPy](https://blog.naver.com/sooftware/221577171997)
+   + [Python Documentation using Sphinx](https://blog.naver.com/sooftware/221838103492)
+   + [Variable Naming](https://blog.naver.com/sooftware/221846090355)  
  
  * Wrapper  
    + [Content-Based Attention](https://github.com/sh951011/Korean-Speech-Recognition/blob/master/models/attention.py)  
@@ -113,6 +115,8 @@
    + [Practice1_5](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day4/Practice1_5.ipynb)
    + [Huffman Encoding](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day7/Huffman%20Encoding.pdf)
    + [Information Theory & Cross Entropy](https://github.com/sh951011/Things-I-have-Studied/blob/master/Deep-Byun/Day7/Day7.md)
+   + [MNIST Using Multi-Layer Perceptron](https://github.com/sh951011/TIL/tree/master/Deep-Byun/Day13)
+   + [Transpose Conv & HOG Feature Extractor](https://github.com/sh951011/TIL/blob/master/Deep-Byun/Day15/Day15.md)
 * [Deep Learning Image](https://github.com/sh951011/My-Study-Repository/blob/master/deeplearningimage.pdf)
    + RNN
    + LSTM & GRU
