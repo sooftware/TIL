@@ -1,4 +1,4 @@
-# Today I Learned** :books:  
+# Today I Learned :books:  
 
 ## 2019
 ### Spring Semester
