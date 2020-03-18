@@ -127,8 +127,11 @@
 * \[2017/03\] [**A Structured Self-attentive Sentence Embedding**](https://github.com/sh951011/Paper-Review/blob/master/Review/A%20Structured%20Self-attentive%20Sentence%20Embedding.md) : *Self Attention*
 * \[2017/09\] **Attention Is All You Need** : *Transformer*
 
+### Spring Semester
 
- * Blog Posting
+### Blog
+
+* Blog Posting
    + [Intro of Machine Learning](https://blog.naver.com/sooftware/221694702833)
    + [RNN (Recurrent Neural Network)](https://blog.naver.com/sooftware/221750172371)
    + [LSTM & GRU](https://blog.naver.com/sooftware/221783612034)
