@@ -1,0 +1,10 @@
+﻿  rest.c
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(27): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[8]'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(27): warning C4024: 'trans_binary': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(28): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[8]'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(28): warning C4024: 'trans_binary': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(29): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[8]'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(29): warning C4024: 'divide': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(29): warning C4024: 'divide': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\rest_operator\rest_operator\rest.c(84): warning C4013: 'can_divide'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  rest_operator.vcxproj -> C:\Users\SooHwanKim\Desktop\수환\공부\c언어\rest_operator\Debug\rest_operator.exe

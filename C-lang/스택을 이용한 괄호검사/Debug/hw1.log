@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\soohwankim\desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\hw1\main.c(7): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\soohwankim\desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\hw1\main.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\soohwankim\desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\hw1\main.c(55): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  hw1.vcxproj -> C:\Users\SooHwanKim\Desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\Hw1\Debug\hw1.exe

@@ -1,0 +1,6 @@
+﻿  test.c
+c:\users\soohwankim\desktop\수환\공부\c언어\project1\project1\test.c(6): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  c:\users\soohwankim\desktop\수환\공부\c언어\project1\project1\test.c(6): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\project1\project1\test.c(7): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  c:\users\soohwankim\desktop\수환\공부\c언어\project1\project1\test.c(7): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Project1.vcxproj -> C:\Users\SooHwanKim\Desktop\수환\공부\c언어\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+ int n;
+
+ printf("Input :");
+ scanf("%d", &n);
+
+ if(n<10)
+        printf("smaller than 10\n");
+
+ if(n>10)
+        printf("bigger than 10\n");
+
+ return 0;
+}

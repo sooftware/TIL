@@ -1,0 +1,12 @@
+{% extends "podcasting/podcasting_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "Podcast Shows" %}{% endblock %}
+
+{% block body_class %}page-show-list{% endblock %}
+
+{% block content %}
+    {% include "podcasting/_show_list.html" %}
+    {% block show_list_extra %}{% endblock %}
+{% endblock %}

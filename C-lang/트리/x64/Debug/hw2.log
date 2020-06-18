@@ -1,0 +1,3 @@
+﻿  BinaryTree.c
+c:\users\soohwankim\desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\hw2\hw2\binarytree.c(78): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  hw2.vcxproj -> C:\Users\SooHwanKim\Desktop\수환\학교\3학년 1학기 (19년)\자료구조 및 알고리즘\과제\hw2\hw2\x64\Debug\hw2.exe

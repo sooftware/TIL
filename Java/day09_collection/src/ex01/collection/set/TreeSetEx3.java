@@ -1,0 +1,21 @@
+package ex01.collection.set;
+import java.util.*;
+
+public class TreeSetEx3 {
+	public static void main(String[] args) {
+		TreeSet set = new TreeSet();
+		String from = "a";
+		String to = "d";
+		
+		set.add("abc");		set.add("alien");	set.add("bat");	set.add("car");	set.add("Car");
+		set.add("dZZZZZ");	set.add("dzzzzz");	set.add("elevator");	set.add("elephant");	set.add("fan");	set.add("flower");
+		
+		System.out.println(set);
+		System.out.println("range search : from " + from + " to " + to);
+		System.out.println("result1 : " + set.subSet(from, to));
+		System.out.println("result2 : " + set.subSet(from, to+"zzz"));
+		
+		// abc 사전순으로 정렬되서 나오게 된다
+		
+	}
+}

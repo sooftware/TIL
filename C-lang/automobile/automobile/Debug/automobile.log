@@ -1,0 +1,18 @@
+﻿  main.c
+c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(70): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(70): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(70): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(70): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(73): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(73): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(73): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(73): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(76): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(76): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(76): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(76): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(79): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(79): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(79): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\kimsoohwan\desktop\수환\공부\c언어\automobile\automobile\automobile.h(79): note: 이 인수는 버퍼 크기로 사용됩니다.
+  automobile.vcxproj -> C:\Users\KimSooHwan\Desktop\수환\공부\c언어\automobile\Debug\automobile.exe

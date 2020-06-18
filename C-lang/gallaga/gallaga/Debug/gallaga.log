@@ -1,0 +1,38 @@
+﻿  main.c
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(332): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(381): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(383): warning C4098: 'EASY_MODE_STAGE1': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(432): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(583): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(635): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(684): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(832): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(900): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1093): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1279): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1298): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1446): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1476): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1582): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1655): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1776): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1847): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(1974): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2023): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2074): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2228): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2280): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2329): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2481): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2564): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2674): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2748): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2868): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\gallaga.h(2940): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(91): warning C4047: '함수': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(91): warning C4024: 'PlaySoundA': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(97): warning C4047: '함수': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(97): warning C4024: 'PlaySoundA': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(18): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\soohwankim\desktop\수환\공부\c언어\gallaga\gallaga\main.c(21): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  gallaga.vcxproj -> C:\Users\SooHwanKim\Desktop\수환\공부\c언어\gallaga\Debug\gallaga.exe

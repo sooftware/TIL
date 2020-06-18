@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+void main(void){
+ int i,j,k;
+ int n;
+ int n2;
+
+ printf("input :");
+ scanf("%d", &n);
+
+ n2=n;
+
+ for(i=0;i<n;i++)
+ {
+        for(j=0;j<i;j++)
+        {
+         printf(" ");
+        }
+        for(k=2*n2-1;k>0;k--)   // 9 7 5 3 1//
+        {
+         printf("*");
+        }
+  printf("\n");
+  n2--;
+ }
+}
+~       

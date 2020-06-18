@@ -1,0 +1,12 @@
+{% extends "podcasting/podcasting_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "Archive" %}{% endblock %}
+
+{% block body_class %}page-episode-list{% endblock %}
+
+{% block content %}
+    {% include "podcasting/_episode_list.html" %}
+    {% block episode_list_extra %}{% endblock %}
+{% endblock %}

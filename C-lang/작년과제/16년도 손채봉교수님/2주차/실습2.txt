@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main(){
+ int n;
+
+ printf("input 1~4 :");
+ scanf("%d", &n);
+
+ switch(n)
+ {
+        case 1 :
+                printf("alpa\n");
+                break;
+
+        case 2 :
+                printf("beta\n");
+                break;
+
+        case 3 :
+                printf("gamma\n");
+                break;
+
+        case 4 :
+                printf("tera\n");
+                break;
+ }
+
+ return 0;
+}

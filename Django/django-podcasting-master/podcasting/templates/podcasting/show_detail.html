@@ -1,0 +1,10 @@
+{% extends "podcasting/podcasting_base.html" %}
+
+{% block head_title %}{{ show.title }}{% endblock %}
+
+{% block body_class %}page-show-detail{% endblock %}
+
+{% block content %}
+    {% include "podcasting/_show_detail.html" %}
+    {% block show_detail_extra %}{% endblock %}
+{% endblock %}
