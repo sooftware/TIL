@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////
-// OS         : Ubuntu 20.04 LST 64bits                               //
+// OS         : Ubuntu 20.04 LTS 64bits                               //
 // Author     : Soohwan Kim                                           //
 // Studend ID : 2014707073                                            //
 // Department : Electronic and Communication Engineering              //
@@ -8,14 +8,14 @@
 // Description: Implementation of multi-chatting server using threads //
 ////////////////////////////////////////////////////////////////////////
 
-#include<stdio.h>
-#include<stdlib.h>
-#include<unistd.h>
-#include<string.h>
-#include<arpa/inet.h>
-#include<sys/socket.h>
-#include<netinet/in.h>
-#include<pthread.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <arpa/inet.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <pthread.h>
 #define TRUE 1
 #define FALSE 0
 #define INIT_SIZE 32
@@ -26,12 +26,13 @@
 #define BACKLOG 5
 #define NEW_USER_SIGN ("[NEW_USER]")
 #define QUIT_SIGN ("QUIT")
+#define SHOW_SIGN ("@show\n")
+typedef int boolean;
 
 void * multi_chat(void *arg);
-char** split(char *string, char separator, int *num_tokens);
 int get_index_by_name(char *name);
-int startswith(char *buf, char *start);
-void join(char *msg, int length);
+boolean startswith(char *buf, char *start);
+void join(char *msg);
 void show(char *msg, char *name, char *content);
 void user_quit(char *msg, char *name);
 void send_msg(char *msg, char *name, char *content, int length);
@@ -61,14 +62,14 @@ int main(int argc, char *argv[]) {
 	/* Bind */
 
 	if (bind(server_sock, (struct sockaddr*)&server, sizeof(server)) == -1) {
-		perror("bind");
+		perror("bind error");
 		exit(1);
 	}
 
 	/* Listen */
 
 	if (listen(server_sock, BACKLOG) == -1) {
-		perror("listen");
+		perror("listen error");
 		exit(1);
 	}
 
@@ -100,13 +101,13 @@ void* multi_chat(void *arg) {
 	while ((length = read(client_sock, msg, sizeof(msg))) != 0) {
 
 		if (startswith(msg, NEW_USER_SIGN)){
-			join(msg, length);
+			join(msg);
 		}
 		else{
 			name = strtok(msg, " ");
 			content = strtok(NULL, "");
 
-			if (!strcmp(content, "@show\n")){
+			if (!strcmp(content, SHOW_SIGN)){
 				show(msg, name, content);
 			}
 			else if(!strcmp(content, QUIT_SIGN)) {
@@ -136,7 +137,7 @@ int get_index_by_name(char *name) {
 }
 
 
-int startswith(char *buf, char *start) {
+boolean startswith(char *buf, char *start) {
 	int length = strlen(start);
 
 	for (int i = 0; i < length; i++){
@@ -147,7 +148,7 @@ int startswith(char *buf, char *start) {
 }
 
 
-void join(char *msg, int length) {
+void join(char *msg) {
 	pthread_mutex_lock(&mutex);
 	memset(client_ids[client_count], '\0', MAX_ID_LENGTH);
 
@@ -157,7 +158,7 @@ void join(char *msg, int length) {
 
 	for (int i = 0; i < client_count; i++) {
 		sprintf(msg, "%s is IN\n", client_ids[client_count - 1]);
-		write(client_socks[i], msg, length);
+		write(client_socks[i], msg, strlen(msg));
 	}
 
 	pthread_mutex_unlock(&mutex);
@@ -166,8 +167,11 @@ void join(char *msg, int length) {
 
 void show(char *msg, char *name, char *content) {
 	int client_index = get_index_by_name(name);
+	char *usernum_msg;
 
-	strcpy(msg, "The client that you are currently connected to is ");
+	sprintf(usernum_msg, "Currently connected user num : %d\n", client_count);
+	strcpy(msg, usernum_msg);
+	strcat(msg, "The client that you are currently connected to is ");
 
 	for (int i = 0; i < client_count; i++) {
 		strcat(msg, client_ids[i]);
@@ -225,5 +229,8 @@ void disconnect(int disconnect_index) {
 
 	return;
 }
+
+
+
 
 

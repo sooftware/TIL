@@ -1,11 +1,10 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<unistd.h>
-#include<string.h>
-#include<arpa/inet.h>
-#include<sys/socket.h>
-#include<pthread.h>
-#include<time.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <arpa/inet.h>
+#include <sys/socket.h>
+#include <pthread.h>
 #define TRUE 1
 #define BUF_SIZE 512
 #define INIT_SIZE 32
