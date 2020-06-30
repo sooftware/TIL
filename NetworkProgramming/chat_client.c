@@ -8,9 +8,9 @@
 #define TRUE 1
 #define BUF_SIZE 512
 #define INIT_SIZE 32
-#define PORTNUM 3500
+#define PORTNUM 3499
 #define NEW_USER_SIGN ("[NEW_USER]")
-#define QUIT_SIGN ("QUIT")
+#define EXIT_SIGN ("EXIT")
 
 void* send_msg(void* arg);
 void* recv_msg(void* arg);
@@ -70,9 +70,9 @@ void* send_msg(void* arg) {
 	while (TRUE) {
 		fgets(temp, BUF_SIZE, stdin);
 
-		if (!strcmp(temp, "@quit\n") || !strcmp(temp, "@QUIT\n")) {
+		if (!strcmp(temp, "@exit\n")) {
 			puts("Terminate..");
-			sprintf(msg, "%s %s", name, QUIT_SIGN);
+			sprintf(msg, "%s %s", name, EXIT_SIGN);
 			write(sock, msg, strlen(msg));
 
 			close(sock);

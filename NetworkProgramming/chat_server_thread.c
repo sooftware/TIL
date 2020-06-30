@@ -25,7 +25,7 @@
 #define PORTNUM 3500
 #define BACKLOG 5
 #define NEW_USER_SIGN ("[NEW_USER]")
-#define QUIT_SIGN ("QUIT")
+#define EXIT_SIGN ("EXIT")
 #define SHOW_SIGN ("@show\n")
 typedef int boolean;
 
@@ -34,7 +34,7 @@ int get_index_by_name(char *name);
 boolean startswith(char *buf, char *start);
 void join(char *msg);
 void show(char *msg, char *name, char *content);
-void user_quit(char *msg, char *name);
+void user_exit(char *msg, char *name);
 void send_msg(char *msg, char *name, char *content, int length);
 void disconnect(int disconnect_index);
 
@@ -110,8 +110,8 @@ void* multi_chat(void *arg) {
 			if (!strcmp(content, SHOW_SIGN)){
 				show(msg, name, content);
 			}
-			else if(!strcmp(content, QUIT_SIGN)) {
-				user_quit(msg, name);
+			else if(!strcmp(content, EXIT_SIGN)) {
+				user_exit(msg, name);
 			}
 			else {
 				send_msg(msg, name, content, length);
@@ -184,7 +184,7 @@ void show(char *msg, char *name, char *content) {
 }
 
 
-void user_quit(char *msg, char *name) {
+void user_exit(char *msg, char *name) {
 	int client_index = get_index_by_name(name);
 
 	pthread_mutex_lock(&mutex);

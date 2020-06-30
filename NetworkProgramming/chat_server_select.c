@@ -22,14 +22,14 @@
 #define SOCK_SETSIZE 1021
 #define BUF_SIZE 512
 #define NEW_USER_SIGN ("[NEW_USER]")
-#define QUIT_SIGN ("QUIT")
+#define EXIT_SIGN ("EXIT")
 #define SHOW_SIGN ("@show\n")
 typedef int boolean;
 
 void join(char *msg);
 boolean startswith(char *buf, char *start);
 void show(int sockfd);
-void user_quit(int sockfd, char *name);
+void user_exit(int sockfd, char *name);
 int get_index_by_name(char *name);
 
 int client_count = 0;
@@ -106,8 +106,8 @@ int main(int argc, char **argv) {
 						char *name = strtok(buf, " ");
 						char *content = strtok(NULL, "");
 
-						if (!strcmp(content, QUIT_SIGN)) {
-							user_quit(sockfd, name);
+						if (!strcmp(content, EXIT_SIGN)) {
+							user_exit(sockfd, name);
 
 							close(sockfd);
 							FD_CLR(sockfd, &readfds);
@@ -182,7 +182,7 @@ void show(int sockfd) {
 }
 
 
-void user_quit(int sockfd, char *name) {
+void user_exit(int sockfd, char *name) {
 	char msg[BUF_SIZE];
 	int i = 0;
 
