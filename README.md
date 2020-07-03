@@ -1,3 +1,3 @@
-# Today I Learned :books:  
+# :books: Today I Learned   
 
 Today I Learned..
