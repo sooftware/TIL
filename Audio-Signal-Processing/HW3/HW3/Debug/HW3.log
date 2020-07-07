@@ -1,0 +1,3 @@
+﻿  cepstral.c
+c:\users\soohwankim\desktop\ai-speech\hw3\hw3\cepstral.c(15): warning C4101: 'spec_clone' :참조되지 않은 지역 변수입니다.
+  HW3.vcxproj -> C:\Users\SooHwanKim\Desktop\AI-Speech\HW3\Debug\HW3.exe
